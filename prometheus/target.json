@@ -1,0 +1,32 @@
+[
+  {
+    "targets": ["192.168.66.191:9100"],
+    "labels": {
+      "job": "prometheus-node-exporter"
+   }
+  },
+   {
+    "targets": ["192.168.66.192:9100"],
+    "labels": {
+      "job": "prometheus-node-exporter"
+    }
+  },
+  {
+    "targets": ["192.168.66.193:9100"],
+    "labels": {
+      "job": "prometheus-node-exporter"
+    }
+  },
+  {
+    "targets": ["192.168.66.194:9100"],
+    "labels": {
+      "job": "prometheus-node-exporter"
+    }
+  },
+  {
+    "targets": ["192.168.66.195:9100"],
+    "labels": {
+      "job": "prometheus-node-exporter"
+   }
+  }
+]
